@@ -11,7 +11,7 @@
 
 Jai Shree Ram
 Wanna Become A Software Developer 
-Editor | Sketcher | Traveler  (Refined for professional appeal)
+Editor | Sketcher | Traveler 
 
 # 💻 Tech Stack
 ### 💻 Programming Languages
@@ -77,7 +77,7 @@ Editor | Sketcher | Traveler  (Refined for professional appeal)
 
 # 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasaini.5666@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shiva-sainiiii.github.io/Level-1-Task-1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-sainiiii?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivasaini.5666@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shiva-sainiiii.github.io/Level-1-Task-1/)
 
 <p>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
